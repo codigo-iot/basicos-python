@@ -14,4 +14,4 @@ elif num < 0:
 else: 
     result = "Este número es cero" 
 # Imprime el resultado 
-print(result) 
+print(result)
