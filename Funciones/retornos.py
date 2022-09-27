@@ -8,5 +8,4 @@ def sumGeometric(a, r, n):
    #regresa el valor de s 
    return s
 
-
 print (sumGeometric (2,3,4))
